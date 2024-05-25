@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nobel_Console_Application", "Nobel_Console_Application\Nobel_Console_Application.csproj", "{6FA7E437-A1DC-4CD4-B3A0-B73B82271DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA7E437-A1DC-4CD4-B3A0-B73B82271DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA7E437-A1DC-4CD4-B3A0-B73B82271DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA7E437-A1DC-4CD4-B3A0-B73B82271DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA7E437-A1DC-4CD4-B3A0-B73B82271DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8353489-25D7-4187-B1F2-246FF7779064}
+	EndGlobalSection
+EndGlobal
